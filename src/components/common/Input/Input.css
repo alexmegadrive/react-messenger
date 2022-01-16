@@ -1,0 +1,46 @@
+.input__icon-wrapper {
+    flex-shrink: 0;
+    width: 85px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #9CBCDE;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.input__wrapper {
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.input {
+    border-left: none;
+    outline: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color: #BABABA;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 30px 90px 30px 30px;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000415;
+    opacity: 0.5;
+    height: 85px;
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.input__button-eye {
+    position: absolute;
+    top: 50%;
+    right: 33px;
+    transform: translate(0, -50%);
+}
