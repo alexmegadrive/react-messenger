@@ -1,0 +1,52 @@
+.send {
+    background: #D4D6F0;
+    border-radius: 15px;
+    padding: 20px;
+    height: 130px;
+    /*margin-bottom: 30px;*/
+}
+
+.send__input {
+    width: 100%;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000415;
+    padding: 30px 290px 30px 30px;
+    background: #FFFFFF;
+    border: 1px solid #BABABA;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.send__form {
+    position: relative;
+}
+
+.send__button-icon {
+    margin-right: 15px;
+    width: 22px;
+    height: 22px;
+    background: no-repeat center/22px url('../../../icon/icon8.svg');
+}
+
+.send__button {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 20px;
+    display: flex;
+    align-items: center;
+    padding: 19px 73px;
+    background: linear-gradient(206.57deg, #6476F4 0%, #3246D3 83.33%);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.send__button-text {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}

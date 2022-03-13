@@ -1,0 +1,23 @@
+.navigation-in-modal {
+    padding: 0 50px 50px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.navigation-in-modal__link {
+    text-align: right;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-decoration-line: underline;
+}
+
+.navigation-in-modal__subtitle {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #041122;
+}
+
+

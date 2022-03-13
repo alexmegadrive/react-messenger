@@ -1,0 +1,87 @@
+.main {
+    padding-top: 0px;
+    width: 100%;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main__content {
+    width: 100%;
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 2500px;
+    background: white;
+    overflow: auto;
+    display: flex;
+    flex: 1;
+}
+
+.main_container {
+    height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.chat__window_container_main {
+    display: flex;
+    flex-direction: row;
+
+    flex: 1;
+    overflow: auto;
+}
+
+.chat__container_list
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    min-width: 240px;
+    max-width: 300px;
+    border-right: 3px solid #2182e9;
+    /*height: 100%;*/
+
+}
+
+.chat__container_room {
+    flex-grow: 3;
+
+}
+
+.ChatMainList_Title {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ChatMainList_Group{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.ChatMainList_Item:before {
+    content: "#";
+}
+
+.ChatMainList_Item {
+    transition: 0.7s ease;
+}
+.ChatMainList_Item:hover {
+    color: blue;
+    text-shadow: 0 0 5px #647cf4;
+}
+.selectedChat {
+    background: #1475dd;
+
+}
+
+.test {
+    width: 100%;
+}
+
+.ChatMainList_Container {
+overflow: auto;
+}
