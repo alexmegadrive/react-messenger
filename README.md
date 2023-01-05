@@ -1,12 +1,11 @@
-# React-messenger - мессенджер с функционалом, аналогичным Discord/Slack
+# React-messenger - app with a Discord/Slack-like fetures
 
+Open in browser - https://alexmegadrive.github.io/react-messenger
 
-# Основной функционал:
-- Авторизация и регистрация пользователей 
-- Компонент списка каналов  и компонент истории сообщений канала,  работающие из Redux-слайсов
-- Страница настроек, позволяющая редактировать данные авторизованного пользователя и сохранять их в Redux-слайс
-- Маршрутизация с использованием React-router, также реализована страница 404
-- Применение Redux для хранения данных о пользователях и архива сообщений
-- Применение Redux-Persist для подстановки данных и сохранения состояния приложения при перезагрузке страницы
-
-Видеодемонстрация: https://skr.sh/vD0iLqmWk4Y
+# Features
+- Authorization and registration functions
+- Channel list component and channel message history component working from Redux slices
+- Settings page that allows you to edit the data of an authorized user and save them in a Redux slice
+- Routing using React-router, also implemented page 404
+- Redux application for storing user data and message archive
+- Using Redux-Persist to substitute data and save the application state when the page is reloaded
