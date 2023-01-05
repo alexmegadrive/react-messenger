@@ -1,7 +1,7 @@
 {
   "name": "project_react_chat",
   "version": "0.1.0",
-  "homepage": "https://alexmegadrive.github.io/react-messenger",
+  "homepage": "/react-messenger",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",

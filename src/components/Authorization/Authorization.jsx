@@ -54,12 +54,12 @@ const Authorization = ({ setLoggedIn }) => {
       <NavigationInModal
         subtitle="Sign up"
         textLink="Registration"
-        pathLink="/registration"
+        pathLink="./registration"
       />
       <NavigationInModal
         subtitle="Password recovery"
         textLink="Password recovery"
-        pathLink="/password-recovery"
+        pathLink="./password-recovery"
       />
     </ModalWindow>
   );

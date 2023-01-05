@@ -24,7 +24,7 @@ const Header = ({ setLoggedIn, variation, signOut }) => {
 
               <div className="header__link-wrapper">
                 <div className="header__icon-settings_home" />
-                <Link to="/" className="header__link">
+                <Link to="./" className="header__link">
                   Main
                 </Link>
               </div>
@@ -52,7 +52,7 @@ const Header = ({ setLoggedIn, variation, signOut }) => {
 
               <div className="header__link-wrapper">
                 <div className="header__icon-settings_gear" />
-                <Link to="/settings" className="header__link">
+                <Link to="./settings" className="header__link">
                   Settings
                 </Link>
               </div>

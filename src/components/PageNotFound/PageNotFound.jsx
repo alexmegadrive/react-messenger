@@ -18,7 +18,7 @@ const PageNotFound = () => {
         className="page-not-found__come-back-link"
         onClick={handleBackOnPage}
       >
-        Назад
+        Go back
       </button>
     </section>
   );
