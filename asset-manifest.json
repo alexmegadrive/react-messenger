@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-messenger/static/css/main.4046df46.css",
-    "main.js": "/react-messenger/static/js/main.42166b1a.js",
+    "main.js": "/react-messenger/static/js/main.4483d0c6.js",
     "static/js/787.660abebd.chunk.js": "/react-messenger/static/js/787.660abebd.chunk.js",
     "static/media/Montserrat-Regular.woff2": "/react-messenger/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
     "static/media/Montserrat-Bold.woff2": "/react-messenger/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
@@ -19,11 +19,11 @@
     "index.html": "/react-messenger/index.html",
     "static/media/icon1.svg": "/react-messenger/static/media/icon1.690debb7918301d5fe620066580d57f7.svg",
     "main.4046df46.css.map": "/react-messenger/static/css/main.4046df46.css.map",
-    "main.42166b1a.js.map": "/react-messenger/static/js/main.42166b1a.js.map",
+    "main.4483d0c6.js.map": "/react-messenger/static/js/main.4483d0c6.js.map",
     "787.660abebd.chunk.js.map": "/react-messenger/static/js/787.660abebd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4046df46.css",
-    "static/js/main.42166b1a.js"
+    "static/js/main.4483d0c6.js"
   ]
 }
