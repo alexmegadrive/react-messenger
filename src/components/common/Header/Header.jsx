@@ -25,7 +25,7 @@ const Header = ({ setLoggedIn, variation, signOut }) => {
               <div className="header__link-wrapper">
                 <div className="header__icon-settings_home" />
                 <Link to="/" className="header__link">
-                  Главная
+                  Main
                 </Link>
               </div>
             </div>
