@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/css/main.940a840b.css",
-    "main.js": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/js/main.2958eca3.js",
-    "static/js/787.660abebd.chunk.js": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/js/787.660abebd.chunk.js",
-    "static/media/Montserrat-Regular.woff2": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
-    "static/media/Montserrat-Bold.woff2": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
-    "static/media/Montserrat-Medium.woff2": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
-    "static/media/test_photo.jpg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/test_photo.0420a2381e7d12b9ce26.jpg",
-    "static/media/hello.png": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/hello.9dca54da51a7ff25930d.png",
-    "static/media/icon5.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon5.d5bc358684db4b8dd439c639932d17ca.svg",
-    "static/media/icon6.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon6.503c0bd07535bc5620cb.svg",
-    "static/media/icon7.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon7.af5f108251f8ad463f41.svg",
-    "static/media/icon4.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon4.4ecfb43472d50f75d6f7408e75f1e054.svg",
-    "static/media/home.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/home.48393f7dcdaf679d4524.svg",
-    "static/media/icon8.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon8.63eacfeb7d8d0e6e2e29.svg",
-    "index.html": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/index.html",
-    "static/media/icon3.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon3.30cb13dba9c52b3ec21786ac0246a25d.svg",
-    "static/media/icon2.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon2.cc9f8913118ded2607ddf1ecbe49681a.svg",
-    "static/media/icon1.svg": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/media/icon1.690debb7918301d5fe620066580d57f7.svg",
-    "main.940a840b.css.map": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/css/main.940a840b.css.map",
-    "main.2958eca3.js.map": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/js/main.2958eca3.js.map",
-    "787.660abebd.chunk.js.map": "/%7Bhttps://alexmegadrive.github.io/react-messenger%7D/static/js/787.660abebd.chunk.js.map"
+    "main.css": "/react-messenger/static/css/main.4046df46.css",
+    "main.js": "/react-messenger/static/js/main.c359265b.js",
+    "static/js/787.660abebd.chunk.js": "/react-messenger/static/js/787.660abebd.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/react-messenger/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
+    "static/media/Montserrat-Bold.woff2": "/react-messenger/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
+    "static/media/Montserrat-Medium.woff2": "/react-messenger/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
+    "static/media/test_photo.jpg": "/react-messenger/static/media/test_photo.0420a2381e7d12b9ce26.jpg",
+    "static/media/hello.png": "/react-messenger/static/media/hello.9dca54da51a7ff25930d.png",
+    "static/media/icon5.svg": "/react-messenger/static/media/icon5.d5bc358684db4b8dd439c639932d17ca.svg",
+    "static/media/icon6.svg": "/react-messenger/static/media/icon6.503c0bd07535bc5620cb.svg",
+    "static/media/icon7.svg": "/react-messenger/static/media/icon7.af5f108251f8ad463f41.svg",
+    "static/media/icon4.svg": "/react-messenger/static/media/icon4.4ecfb43472d50f75d6f7408e75f1e054.svg",
+    "static/media/home.svg": "/react-messenger/static/media/home.48393f7dcdaf679d4524.svg",
+    "static/media/icon8.svg": "/react-messenger/static/media/icon8.63eacfeb7d8d0e6e2e29.svg",
+    "static/media/icon3.svg": "/react-messenger/static/media/icon3.30cb13dba9c52b3ec21786ac0246a25d.svg",
+    "static/media/icon2.svg": "/react-messenger/static/media/icon2.cc9f8913118ded2607ddf1ecbe49681a.svg",
+    "index.html": "/react-messenger/index.html",
+    "static/media/icon1.svg": "/react-messenger/static/media/icon1.690debb7918301d5fe620066580d57f7.svg",
+    "main.4046df46.css.map": "/react-messenger/static/css/main.4046df46.css.map",
+    "main.c359265b.js.map": "/react-messenger/static/js/main.c359265b.js.map",
+    "787.660abebd.chunk.js.map": "/react-messenger/static/js/787.660abebd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.940a840b.css",
-    "static/js/main.2958eca3.js"
+    "static/css/main.4046df46.css",
+    "static/js/main.c359265b.js"
   ]
 }
