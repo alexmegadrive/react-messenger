@@ -12,7 +12,8 @@ import { store, persistor } from "./redux/store";
 ReactDOM.render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename={"/react-messenger"}>
+      {/* <BrowserRouter basename='/react-messenger'>   //for hosting */}
+      <BrowserRouter basename='/react-messenger'>
         <React.StrictMode>
           <App />
         </React.StrictMode>
